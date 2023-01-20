@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "simplelightbox": "^2.12.1"
+  },
+  "name": "tarea-8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristian garzon",
+  "license": "ISC",
+  "description": ""
+}
+
